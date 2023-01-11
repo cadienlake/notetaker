@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Test Title",
+        "text": "Test text",
+        "note_id": "khbas@3r7"
+    },
+    {
+        "title": "Street Magic",
+        "text": "The coolest magic there is",
+        "note_id": "49858a00-3ac2-4b59-8d29-3574447dc3a8"
+    },
+    {
+        "title": "Fake Magic",
+        "text": "Is the worst crime one can commit",
+        "note_id": "f1569549-b0db-4f06-9b2d-b81471312abd"
+    }
+]
